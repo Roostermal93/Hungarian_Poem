@@ -1,0 +1,21 @@
+{
+    "count": 2,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "f2b76df0-2ea2-41cc-a0df-ffc487eb39ef",
+            "collectionId": "Hungarian",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Hungarian/f2b76df0-2ea2-41cc-a0df-ffc487eb39ef_hu_Female.mp4"
+        },
+        {
+            "id": "4047a539-861e-486c-9a9d-7468e9946053",
+            "collectionId": "Hungarian",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Hungarian/4047a539-861e-486c-9a9d-7468e9946053_hu_Female.mp4"
+        }
+    ]
+}
